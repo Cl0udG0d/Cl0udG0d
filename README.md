@@ -5,11 +5,10 @@
 ### I'm Cl0udG0d 
 
 - 重庆某大学计算机专业大三学渣 穷究于理，成就于工
-- ⚡ 低配韩商言 ctf酱油选手 web安全菜鸡
-- 活在当下的程序猿
+- ⚡ `CTFer` && `安全开发` && `漏洞挖掘`
 - 💬 扣扣邮箱，欢迎一起讨论学习：[2585614464@qq.com](mailto:2585614464@qq.com)
-- ⭐ [博客园](https://www.cnblogs.com/Cl0ud/)
-- ⭐ 暴躁喷子 键盘侠
+- ⭐个人博客： [博客园](https://www.cnblogs.com/Cl0ud/)
+- 微信公众号：`芸潘`
 - 理工酸菜鱼 巴南黄焖鸡
 - 做自己爱做的事
 
@@ -33,17 +32,15 @@
 
 ### 开源项目
 - [SZhe_Scan 碎遮Web漏洞扫描器](https://github.com/Cl0udG0d/SZhe_Scan)
+- [花溪九尾](https://github.com/Cl0udG0d/HXnineTails)
+- [QQ钓鱼网站](https://github.com/Cl0udG0d/QQFishing)
 - [在edusrc，补天等漏洞平台上对于一些通用漏洞检测时编写的简单python POC脚本](https://github.com/Cl0udG0d/edusrc_POC)
 - [基于python3的fofa爬虫](https://github.com/Cl0udG0d/Fofa-script)
 - [scrapy框架西刺代理爬取保存json](https://github.com/Cl0udG0d/proxy_pool)
-- [学习Linux shell编程的时候的一些脚本](https://github.com/Cl0udG0d/Shell-script)
 - ...
 
 ### 正在做的事
-- AutumnWater 秋水SRC平台 基于python语言开发的开源漏洞响应平台
-- AWD训练平台 基于GO语言开发
-- 学习前端
-- 学习内网渗透
+`内网渗透` && `免杀提权` && `GO语言`
 
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Cl0udG0d&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
