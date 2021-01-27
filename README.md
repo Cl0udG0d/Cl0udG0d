@@ -1,6 +1,6 @@
 ## 念念不忘 必有回响 👋
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="![](https://springbird.oss-cn-beijing.aliyuncs.com/blog20210127120600.jpg)" />
 
 ### I'm Cl0udG0d 
 
