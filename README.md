@@ -1,6 +1,6 @@
 ## 念念不忘 必有回响 👋
 ---
-<img align="right" alt="GIF" src="![](https://springbird.oss-cn-beijing.aliyuncs.com/blog20210127120600.jpg)" />
+<img align="right" alt="GIF" src="https://github.com/Cl0udG0d/Cl0udG0d/blob/main/images/1.jpg" />
 
 ### I'm Cl0udG0d 
 
