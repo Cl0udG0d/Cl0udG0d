@@ -3,9 +3,8 @@
 ### About me
 
 -  `CTFer` && `安全开发` && `漏洞挖掘`
-- QQ：`MjU4NTYxNDQ2NA==`
-- Team：`Biu`
 - Blog： https://www.cnblogs.com/Cl0ud/
+- bilibili：https://space.bilibili.com/430538618
 
 建了一个微信的安全交流群，欢迎添加我微信备注`进群`，一起来聊天吹水哇，以及一个会发布安全学习相关内容的公众号，欢迎关注 :)
 
