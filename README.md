@@ -10,7 +10,7 @@
 
 > ***做技术的黑客心态加上开放共进的态度是成长和越过高山幽谷的秘籍😊***
 
-|               加我拉你入群               |                                                            黑糖安全公众号                                                             |
-|:----------------------------------------------------------: |:------------------------------------------------------------------------------------------------------------------------------:|
-| <img src="https://springbird3.oss-cn-chengdu.aliyuncs.com/lianxiang/1a1f7894a170bec207e61bf86a01592.jpg" width="300"/> | <img src="https://springbird3.oss-cn-chengdu.aliyuncs.com/lianxiang/qrcode_for_gh_cead8e1080d6_430.jpg" width="300"/> |
 
+|               加我拉你入群               |                                                            黑糖安全公众号                                                             |                                                          知识星球                                                          |
+|:----------------------------------------------------------: |:------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://springbird3.oss-cn-chengdu.aliyuncs.com/lianxiang/1a1f7894a170bec207e61bf86a01592.jpg" width="300"/> | <img src="https://springbird3.oss-cn-chengdu.aliyuncs.com/lianxiang/qrcode_for_gh_cead8e1080d6_430.jpg" width="300"/> | <img src="https://springbird3.oss-cn-chengdu.aliyuncs.com/lianxiang/f15e36e768d83c799cc6bd0f3eff2a1.png" width="300"/> |
