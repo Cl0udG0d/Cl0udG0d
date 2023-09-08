@@ -25,4 +25,4 @@
 
 |               加我拉你入群               |                                                            黑糖安全公众号                                                             |
 |:----------------------------------------------------------: |:------------------------------------------------------------------------------------------------------------------------------:|
-| <img src="https://springbird3.oss-cn-chengdu.aliyuncs.com/lianxiang/1a1f7894a170bec207e61bf86a01592.jpg" width="300"/> | <img src="https://springbird3.oss-cn-chengdu.aliyuncs.com/lianxiang/qrcode_for_gh_cead8e1080d6_430.jpg" width="300"/> |
+| <img src="./images/1a1f7894a170bec207e61bf86a01592.jpg" width="300"/> | <img src="./images/qrcode_for_gh_cead8e1080d6_430.jpg" width="300"/> |
