@@ -29,10 +29,6 @@ about me: 安全开发 && 安全研究
         </tbody>  
     </table>  
 </div>
-广告时间~ 
-<td align="center">
-        <img src="./images/738473188fb95c76d0b8055ec869d37.jpg" width="300;" alt="fireinrain"/>
-        <br />
-</td>
+
 
 
